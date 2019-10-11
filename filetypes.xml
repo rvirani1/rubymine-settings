@@ -7,7 +7,7 @@
       <mapping pattern="find_service_area_from_id" type="PLAIN_TEXT" />
       <mapping pattern="create_data_export_record" type="PLAIN_TEXT" />
       <mapping pattern="loadup_eng_ssh" type="PLAIN_TEXT" />
-      <mapping pattern="ssh_key_file" type="PLAIN_TEXT" />
+      <mapping pattern="scope_relation_to_order_id" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
@@ -15,24 +15,24 @@
       <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
       <mapping pattern="actions" type="PLAIN_TEXT" />
       <mapping pattern="npm_install" type="PLAIN_TEXT" />
-      <mapping pattern="scope_relation_to_order_id" type="PLAIN_TEXT" />
       <mapping pattern="install_ruby" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="ssh_key_file" type="PLAIN_TEXT" />
       <mapping ext="ci" type="PLAIN_TEXT" />
-      <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="travis" type="PLAIN_TEXT" />
-      <mapping ext="premod" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="premod" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="travis" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping pattern="cache_gems" type="RXML" />
-      <mapping pattern="AppFile" type="Ruby" />
-      <mapping pattern="Fastfile" type="Ruby" />
-      <mapping pattern="run_ios_on_device" type="Ruby" />
-      <mapping pattern="Gymfile" type="Ruby" />
       <mapping pattern="Appfile" type="Ruby" />
-      <mapping pattern="bump_version" type="Ruby" />
+      <mapping pattern="AppFile" type="Ruby" />
+      <mapping pattern="run_ios_on_device" type="Ruby" />
+      <mapping pattern="Fastfile" type="Ruby" />
+      <mapping pattern="Gymfile" type="Ruby" />
       <mapping pattern="Matchfile" type="Ruby" />
+      <mapping pattern="bump_version" type="Ruby" />
       <mapping pattern="install_node" type="Shell Script" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
